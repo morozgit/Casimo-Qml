@@ -1,0 +1,7 @@
+<RCC>
+    <qresource prefix="/image">
+        <file>flyMoney.gif</file>
+        <file>paper.jpg</file>
+        <file>paper_button.png</file>
+    </qresource>
+</RCC>
